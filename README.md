@@ -1,5 +1,7 @@
 # Conflux
 
+<a href="https://www.aihonestybadge.com" target="_blank" rel="noopener"><img src="https://www.aihonestybadge.com/badges/ai-generated-large.svg" alt="AI Generated" height="28"></a>
+
 A **social RSS/Atom feed reader** — read the feeds *and* join the conversation.
 Subscribe to any RSS/Atom feed, then **comment, react, share, repost and quote**
 both feed articles and other members' posts. Follow people, build a timeline,
